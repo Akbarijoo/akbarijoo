@@ -1,16 +1,13 @@
-## Hi there 👋
+# akbarijoo.py
 
-<!--
-**Akbarijoo/akbarijoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Mohammad Reza Akbarijoo.
 
-Here are some ideas to get you started:
+I started programming at age 11, and I have gained a lot of experience over these years. After graduating from school, I started building my personal brand as a freelancer. To achieve this, I am using GitHub to showcase my old and new projects and build a strong portfolio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus is on Python and Machine Learning, but I also build websites and make useful tools using the knowledge I acquired in the past.
+
+The `akbarijoo.py` file is a script that introduces me using Python.
+
+my website: `https://akbarijoo.ir`
+
+Thanks for reading!
